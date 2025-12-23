@@ -31,10 +31,12 @@ Mobile application developer with professional experience in **native Android (K
 **Tech:** Flutter, REST APIs, Firebase FCM, Hive, Provider/Riverpod/BLoC  
 
 **Highlights:**
-- Redesigned and implemented a modern, intuitive UI
-- Integrated REST APIs for real-time data
-- Added push notifications using Firebase Cloud Messaging
-- Improved performance with local caching using Hive
+- Built a multi-role education management app for Eaton Business School enabling students, faculty, and admins to manage academic workflows.
+- Implemented course and module management with structured learning content.
+- Developed assignment lifecycle features including creation, submission, grading, and feedback.
+- Integrated secure payment processing for course fees and student transactions.
+- Enabled access to live and recorded class sessions within the app.
+- Designed dashboards for admins to manage users, courses, and academic data
 
 🔗 Play Store: https://play.google.com/store/apps/details?id=com.ebs.lms  
 
@@ -45,25 +47,31 @@ Mobile application developer with professional experience in **native Android (K
 **Tech:** Kotlin, Jetpack Compose, MVVM, Room, CI/CD  
 
 **Highlights:**
-- Contributed to an app with **1M+ downloads**
-- Built modern UI using Jetpack Compose
-- Implemented offline-first functionality
-- Added automated tests integrated with CI/CD pipelines
+- Muthoot Mahila Mitra, a fintech mobile app enabling women customers to apply for and manage micro-loans.
+- Implemented digital loan application flow with KYC capture and document uploads.
+- Built loan dashboard displaying loan status, EMI schedules, interest details, and repayment history.
+- Integrated secure authentication and role-based access for customers and field agents.
+- Enabled real-time notifications for loan approval, disbursement, and repayment reminders.
+- Ensured data security and performance for a large-scale user base.
 
 🔗 Play Store: https://play.google.com/store/apps/details?id=com.muthootmicrofin.customerapp  
 
 ---
 
-### 📱 Nevendo (Android)
+### 📱 VIPO (Android)
 **Company:** Corbel Business Applications Pvt Ltd  
-**Tech:** Kotlin, Java, MVVM, Hilt, Coroutines, Retrofit 
+**Tech:** Kotlin, Java, MVVM, Hilt, Coroutines, Retrofit
+
+![App Screenshot](assets/screenshots/homepage.png)
 
 **Highlights:**
-- Implemented clean and scalable architecture using MVVM principles to improve code maintainability.
-- Used Hilt for dependency injection to simplify object management and improve testability.
-- Leveraged Kotlin Coroutines for asynchronous tasks, ensuring smooth UI and efficient background processing.
+- Built a full-featured exhibition app supporting visitors, exhibitors, and organizers.
+- Implemented secure authentication, QR-based entry, and personalized schedules.
+- Designed interactive venue maps with real-time navigation and geo-fenced alerts.
+- Enabled exhibitor showcases, lead capture, and in-app networking.
+- Integrated live sessions, feedback, ratings, and attendee engagement features.
 
-🔗 Play Store: https://play.google.com/store/apps/details?id=apps.corbelbiz.nevendo.demo&hl=en&gl=US
+🔗 Play Store: https://play.google.com/store/apps/details?id=apps.corbelbiz.vipo&hl=en&gl=US
 
 ---
 
