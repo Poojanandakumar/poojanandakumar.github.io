@@ -3,8 +3,8 @@ Android & Flutter Developer
 
 📍 Vancouver, BC  
 📧 poojanandakumar34@gmail.com  
-🔗 GitHub: https://github.com/yourusername  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+🔗 GitHub: https://github.com/Poojanandakumar
+🔗 LinkedIn: www.linkedin.com/in/poojanandakumar   
 
 ---
 
@@ -30,6 +30,13 @@ Mobile application developer with professional experience in **native Android (K
 **Role:** Flutter Developer  
 **Tech:** Flutter, REST APIs, Firebase FCM, Hive, Provider/Riverpod/BLoC  
 
+<p align="center">
+  <img src="assets/EBS3.png" width="200" />
+  <img src="assets/EBS4.png" width="200" />
+  <img src="assets/EBS1.png" width="200" />
+  <img src="assets/EBS2.png" width="200" />
+</p>
+
 **Highlights:**
 - Built a multi-role education management app for Eaton Business School enabling students, faculty, and admins to manage academic workflows.
 - Implemented course and module management with structured learning content.
@@ -45,6 +52,13 @@ Mobile application developer with professional experience in **native Android (K
 ### 📱 Muthoot Mahila Mitra (Android)
 **Company:** Muthoot Microfin Limited  
 **Tech:** Kotlin, Jetpack Compose, MVVM, Room, CI/CD  
+
+<p align="center">
+  <img src="assets/VIPO1.png" width="200" />
+  <img src="assets/VIPO2.png" width="200" />
+  <img src="assets/VIPO3.png" width="200" />
+  <img src="assets/VIPO4.png" width="200" />
+</p>
 
 **Highlights:**
 - Muthoot Mahila Mitra, a fintech mobile app enabling women customers to apply for and manage micro-loans.
@@ -62,7 +76,12 @@ Mobile application developer with professional experience in **native Android (K
 **Company:** Corbel Business Applications Pvt Ltd  
 **Tech:** Kotlin, Java, MVVM, Hilt, Coroutines, Retrofit
 
-![App Screenshot](assets/screenshots/homepage.png)
+<p align="center">
+  <img src="assets/VIPO1.png" width="200" />
+  <img src="assets/VIPO2.png" width="200" />
+  <img src="assets/VIPO3.png" width="200" />
+  <img src="assets/VIPO4.png" width="200" />
+</p>
 
 **Highlights:**
 - Built a full-featured exhibition app supporting visitors, exhibitors, and organizers.
@@ -75,32 +94,46 @@ Mobile application developer with professional experience in **native Android (K
 
 ---
 
-## Professional Experience
+### 📱 VIETNAM PEPPER APP - IPC (iOS)
+**Company:** Corbel Business Applications Pvt Ltd  
+**Tech:** Swift, Xcode, Alamofire, UIKit
 
-### Flutter Developer — Freelance Project
-- Built and redesigned mobile UI using Flutter
-- Integrated REST APIs and Firebase services
-- Implemented scalable state management and local caching
+<p align="center">
+  <img src="assets/VIPO1.png" width="200" />
+  <img src="assets/VIPO2.png" width="200" />
+  <img src="assets/VIPO3.png" width="200" />
+  <img src="assets/VIPO4.png" width="200" />
+</p>
 
-### Junior Programmer — Muthoot Microfin Limited
-- Refactored features for performance and modularity
-- Developed offline functionality and modern UI components
-- Worked in Agile/Scrum teams
+**Highlights:**
+- Developed the Vietnam Pepper app for product browsing, ordering, and inventory management
+- Implemented secure checkout, order tracking, and push notifications for customers
+- Built admin dashboards for product management and sales analytics
+- Designed a responsive UI with smooth navigation and offline support
+- Integrated REST APIs for real-time product and order management
 
-### Android Developer — Corbel Business Applications Pvt Ltd
-- Built and published Android applications
-- Managed Play Store releases and version rollouts
-
----
-
-## Education
-**Bachelor of Technology – Computer Science and Engineering**  
-APJ Abdul Kalam Technological University  
+🔗 App Store: https://apps.apple.com/ca/app/vietnam-pepper-app-ipc/id1455333398
 
 ---
 
-## Professional Membership
-- Member, **IEEE**
+
+### 📱 Weatherly (iOS)
+**Hobby Project**  
+**Tech:** Kotlin, Jetpack Compose, Hilt, Retrofit, Coroutine
+
+<p align="center">
+  <img src="assets/weatherly01.png" width="200" />
+</p>
+
+**Highlights:**
+- Personal Weather App project using Kotlin, Jetpack Compose, Hilt, ViewModel, and Retrofit
+- Displays real-time weather data including forecasts, temperature, wind, and humidity
+- Implemented clean architecture with MVVM, dependency injection, and reactive state management
+- Designed modern, responsive UI with Compose animations and material components
+- Includes error handling, loading states, and offline-friendly design
+- Deployed on GitHub with clear documentation and screenshots
+
+🔗 GitHub: https://github.com/Poojanandakumar/Weatherly
 
 ---
 
