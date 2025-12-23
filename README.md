@@ -54,10 +54,10 @@ Mobile application developer with professional experience in **native Android (K
 **Tech:** Kotlin, Jetpack Compose, MVVM, Room, CI/CD  
 
 <p align="center">
-  <img src="assets/VIPO1.png" width="200" />
-  <img src="assets/VIPO2.png" width="200" />
-  <img src="assets/VIPO3.png" width="200" />
-  <img src="assets/VIPO4.png" width="200" />
+  <img src="assets/MM00.png" width="200" />
+  <img src="assets/MM01.jpg" width="200" />
+  <img src="assets/MM02.jpg" width="200" />
+  <img src="assets/MM03.jpg" width="200" />
 </p>
 
 **Highlights:**
