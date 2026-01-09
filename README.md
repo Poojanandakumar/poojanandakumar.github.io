@@ -14,13 +14,13 @@ Mobile application developer with professional experience in **native Android (K
 ---
 
 ## Technical Skills
-- **Languages:** Kotlin, Java, Dart  
-- **Mobile:** Android SDK, Jetpack Compose, Flutter  
+- **Languages:** Kotlin, Java, Dart, Swift
+- **Mobile:** Android SDK, Jetpack Compose, Flutter, iOS  
 - **Architecture:** MVVM, MVI, Clean Architecture  
 - **State Management:** Provider, Riverpod, BLoC/Cubit  
 - **Backend & Data:** REST APIs, Room, Hive, Firebase Firestore  
 - **Firebase:** Authentication, FCM, Crashlytics, Storage  
-- **Tools:** Git, GitLab CI/CD, Android Studio, VS Code, Jira  
+- **Tools:** Git, GitLab CI/CD, Android Studio, Xcode, VS Code, Jira  
 
 ---
 
@@ -54,10 +54,10 @@ Mobile application developer with professional experience in **native Android (K
 **Tech:** Kotlin, Jetpack Compose, MVVM, Room, CI/CD  
 
 <p align="center">
-  <img src="assets/VIPO1.png" width="200" />
-  <img src="assets/VIPO2.png" width="200" />
-  <img src="assets/VIPO3.png" width="200" />
-  <img src="assets/VIPO4.png" width="200" />
+  <img src="assets/MM00.png" width="200" />
+  <img src="assets/MM01.jpg" width="200" />
+  <img src="assets/MM02.jpg" width="200" />
+  <img src="assets/MM03.jpg" width="200" />
 </p>
 
 **Highlights:**
