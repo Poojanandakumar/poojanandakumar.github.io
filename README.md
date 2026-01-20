@@ -99,10 +99,10 @@ Mobile application developer with professional experience in **native Android (K
 **Tech:** Swift, Xcode, Alamofire, UIKit
 
 <p align="center">
-  <img src="assets/VIPO1.png" width="200" />
-  <img src="assets/VIPO2.png" width="200" />
-  <img src="assets/VIPO3.png" width="200" />
-  <img src="assets/VIPO4.png" width="200" />
+  <img src="assets/fapp1.jpeg" width="200" />
+  <img src="assets/fapp4.jpeg" width="200" />
+  <img src="assets/fapp3.jpeg" width="200" />
+  <img src="assets/fapp2.jpeg" width="200" />
 </p>
 
 **Highlights:**
@@ -117,7 +117,7 @@ Mobile application developer with professional experience in **native Android (K
 ---
 
 
-### 📱 Weatherly (iOS)
+### 📱 Weatherly (Android)
 **Hobby Project**  
 **Tech:** Kotlin, Jetpack Compose, Hilt, Retrofit, Coroutine
 
