@@ -28,7 +28,7 @@ Mobile application developer with professional experience in **native Android (K
 
 ### 📱Eaton Business School (Flutter)
 **Role:** Flutter Developer  
-**Tech:** Flutter, REST APIs, Firebase FCM, Hive, Provider/Riverpod/BLoC  
+**Tech:** Flutter, REST APIs, Firebase FCM, BLoC / Cubit  
 
 <p align="center">
   <img src="assets/EBS3.png" width="200" />
@@ -46,6 +46,28 @@ Mobile application developer with professional experience in **native Android (K
 - Designed dashboards for admins to manage users, courses, and academic data
 
 🔗 Play Store: https://play.google.com/store/apps/details?id=com.ebs.lms  
+
+---
+
+### 📱Abe Mart (Flutter)
+**Role:** Flutter Developer  
+**Tech:** Flutter, REST APIs, Firebase FCM, SQLite, Provider, MVVM
+
+<p align="center">
+  <img src="assets/Abemart_01.jpg" width="200" />
+  <img src="assets/Abemart_02.jpg" width="200" />
+  <img src="assets/Abemart_03.jpg" width="200" />
+  <img src="assets/Abemart_04.jpg" width="200" />
+</p>
+
+**Highlights:**
+- Developed features on Abemart, a mobile application that enables users to browse products, manage orders, and track purchases through a seamless and user-friendly interface.
+- Optimized API calls and local caching, resulting in faster screen load times and improved app responsiveness.
+- Implemented user-friendly validations and feedback messages, improving overall usability.
+- Debugged and resolved production issues by analyzing logs and user-reported problems from Play Store feedback.
+- Followed clean code practices and modular architecture to make the app scalable and maintainable.
+
+🔗 Play Store: https://play.google.com/store/apps/details?id=in.abemart.customer&hl=en_CA  
 
 ---
 
